@@ -1,4 +1,4 @@
-const adultsDoctors = (
+export const adultsDoctors = (
     {
         nom: 'Delesalle',
         prenom: 'Patrick',

@@ -1,4 +1,4 @@
-const childDoctors = (
+export const childDoctors = (
     {
         nom: 'Aubard',
         prenom: 'Mélodie',

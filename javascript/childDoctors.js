@@ -71,15 +71,16 @@ export const childDoctors = (
         ville: 'Paris',
         mail: 'chrystelle.colas@curie.fr'
     },
-    // {
-    //     nom: 'Viot',
-    //     prenom: 'Géraldine',
-    //     specialites: 'Génétique',
-    //     adresse: 'Clinique de la Fertilité, 26 rue Boissière',
-    //     codePostal: '75116',
-    //     ville: 'Paris',
-    //     mail: 'geraldine.viot@ahparis.org'
-    // }
+    {
+        nom: 'Viot',
+        prenom: 'Géraldine',
+        specialites: 'Génétique',
+        adresse: '30 Avenue du Président Wilson',
+        codePostal: '75116',
+        ville: 'Paris',
+        lien: 'doctolib.fr/geneticien/paris/geraldine-viot' ,
+        mail: 'geraldine.viot@ahparis.org'
+    },
     {
        nom: 'Cormier-Daire',
        prenom: 'Valérie',

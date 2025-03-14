@@ -6,7 +6,7 @@ label, #toggle { display: none; }
   nav .main_pages {
     display: none;
     flex-direction: column;
-    background: #48435C;
+    background: #000000;
     height: 220px;
   }
   nav .main_pages a {
@@ -26,6 +26,52 @@ label, #toggle { display: none; }
     display: flex;
   }
 }
+
 h1{
     text-align: center;
+}
+
+.main_pages{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  padding: 1rem;
+}
+.main_pages a{
+  padding: 0.5rem 0.5rem;
+}
+
+.premierPublication{
+  margin-top: 12em;
+} 
+
+.socialBar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.publications{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: auto;
+  margin: auto;
+  padding: 0.5rem 0;
+}
+
+footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  background-color: blanchedalmond;
+  padding: 4rem;
+}
+footer a{
+  padding: 0rem 1rem;
 }

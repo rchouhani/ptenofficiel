@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/styles/style.css">
     <script defer type="module" src="script.js"></script>
     <title>Association PTEN Officiel France</title>
 </head>
 <body>
-<h1>Association PTEN Officiel France</h1>
+<h1>PTEN Officiel France</h1>
 <nav>
     <label for="toggle">☰</label>
     <input type="checkbox" id="toggle">
@@ -22,7 +22,7 @@
     </div>
 </nav>
 <div>
-    <nav>
+    <nav class="socialBar">
         <a>Facebook</a>
         <a>Linked In</a>
         <a>Mail</a>

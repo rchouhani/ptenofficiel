@@ -1,5 +1,5 @@
 <?php
-$titre_page = "Association PTEN Officiel France";
+$titre_page = "Adhésion à l'Association";
 // $description = "MA DESCRIPTION.";
 // $keywords = "MES MOTS CLES";
 ?>
@@ -7,7 +7,7 @@ $titre_page = "Association PTEN Officiel France";
 <?php require 'header.php'; ?>
 
 <div class="publications">
-    <article>Ceci est ma première publication</article>
+    <article>Je suis sur l'adhésion</article>
 </div>
 
 <?php require 'footer.php'; ?> 

@@ -1,5 +1,5 @@
 <?php
-$titre_page = "Association PTEN Officiel France";
+$titre_page = "Les spécialistes enfants";
 // $description = "MA DESCRIPTION.";
 // $keywords = "MES MOTS CLES";
 ?>
@@ -7,7 +7,7 @@ $titre_page = "Association PTEN Officiel France";
 <?php require 'header.php'; ?>
 
 <div class="publications">
-    <article>Ceci est ma première publication</article>
+    <article>Je suis sur les spé enfants</article>
 </div>
 
 <?php require 'footer.php'; ?> 

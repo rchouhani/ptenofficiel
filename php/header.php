@@ -23,11 +23,10 @@
 </nav>
 <div>
     <nav class="socialBar">
-    <a><img src="/images/logos/facebook30x30.png" width="30px" height="30px"></a>
-    <a><img src="/images/logos/facebook50x50.png" width="50px" height="50px"></a>
-    <a><img src="/images/logos/facebook70x70.png" width="70px" height="70px"></a>
-        <a>Linked In</a>
-        <a>Mail</a>
-        <a>X</a>
+        <a href="https://www.facebook.com"><img src="/images/logos/facebook50x50.png" width="50px" height="50px"></a>
+        <a href="https://www.linkedin.com"><img src="/images/logos/linkedin50x50.png" width="50px" height="50px"></a>
+        <a href="https://www.instagram.com"><img src="/images/logos/instagram50x50.png" width="50px" height="50px"></a>
+        <a href="https://www.whatsapp.com"><img src="/images/logos/whatsapp50x50.png" width="50px" height="50px"></a>
+        <a href="https://www.x.com"><img src="/images/logos/X50x50.png" width="50px" height="50px"></a>
     </nav>
 </div>

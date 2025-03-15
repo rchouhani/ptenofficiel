@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 label, #toggle { display: none; }
 @media all and (max-width: 991px) {
   nav {
@@ -48,14 +52,13 @@ h1{
 
 .socialBar{
   position: absolute;
-  top: 255px;
-  left: 110px;
+  top: 40%;
+  margin: auto;
   z-index: 5;
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: flex-end;
-  max-width: 414px;
+  width: 390px;
+  justify-content: space-around;
 }
 /* .social img {
   margin-right: 10px;
@@ -76,7 +79,7 @@ footer{
   flex-direction: row;
   justify-content: space-around;
   margin: auto;
-  background-color: blanchedalmond;
+  background-color: rgb(238, 211, 171);
   padding: 4rem;
 }
 footer a{

@@ -32,6 +32,9 @@ label, #toggle { display: none; }
 }
 
 h1{
+    background-color: antiquewhite;
+    padding: 2em 0;
+    margin: 0;
     text-align: center;
 }
 
@@ -51,14 +54,16 @@ h1{
 } 
 
 .socialBar{
-  position: absolute;
-  top: 40%;
-  margin: auto;
-  z-index: 5;
   display: flex;
-  flex-direction: row;
-  width: 390px;
-  justify-content: space-around;
+  flex-direction: column;
+  z-index: 5;
+  position: fixed;
+  right: 0;
+  border-radius: 5% 5% 5% 5%;
+  background-color: bisque;
+  padding: 1em;
+  top: 40%;
+  width: auto;
 }
 /* .social img {
   margin-right: 10px;

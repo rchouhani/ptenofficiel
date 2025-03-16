@@ -5,9 +5,8 @@ $titre_page = "Les spécialistes enfants";
 ?>
 
 <?php require 'header.php'; ?>
+<!-- <script defer type="module" src="/static/childDoctors.js"> -->
 
-<div class="publications">
-    <article>Je suis sur les spé enfants</article>
-</div>
+    <div class="childDoctors"></div>
 
 <?php require 'footer.php'; ?> 

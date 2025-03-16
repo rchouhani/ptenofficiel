@@ -1,4 +1,4 @@
-export const childDoctors = (
+export const childDoctors = [
     {
         nom: 'Aubard',
         prenom: 'Mélodie',
@@ -135,4 +135,4 @@ export const childDoctors = (
         ville: 'Marseille', 
         mail: 'carole.coze@ap-hm.fr'
     }
-)
+]

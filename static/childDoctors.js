@@ -6,7 +6,8 @@ export const childDoctors = [
         adresse: 'Hopital Necker-Enfants Malade, 149 rue de Sèvres',
         codePostal: '75015',
         ville: 'Paris',
-        mail: 'melodie.aubard@aphp.fr'
+        mail: 'melodie.aubard@aphp.fr',
+        iframeGoogleMaps: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5251.227908142517!2d2.313351!3d48.8465019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6703221308f89%3A0x57a7e5b303e7d9!2sH%C3%B4pital%20Necker%20Enfants%20malades%20-%20AP-HP!5e0!3m2!1sfr!2sfr!4v1743865086392!5m2!1sfr!2sfr"" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
     },
     {
         nom: 'Guibaud',
@@ -33,7 +34,8 @@ export const childDoctors = [
         adresse: 'Hopital Necker-Enfants Malade, 149 rue de Sèvres',
         codePostal: '75015',
         ville: 'Paris',
-        mail: 'patricia.miegakong@aphp.fr'
+        mail: 'patricia.miegakong@aphp.fr',
+        iframeGoogleMaps: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5251.227908142517!2d2.313351!3d48.8465019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6703221308f89%3A0x57a7e5b303e7d9!2sH%C3%B4pital%20Necker%20Enfants%20malades%20-%20AP-HP!5e0!3m2!1sfr!2sfr!4v1743865086392!5m2!1sfr!2sfr"" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
     },
     {
         nom: 'Mignot',
@@ -88,7 +90,8 @@ export const childDoctors = [
        adresse: 'Hopital Necker-Enfants Malade, 149 rue de Sèvres',
        codePostal: '75015',
        ville: 'Paris', 
-       mail: 'valerie.cormier-daire@aphp^.fr'
+       mail: 'valerie.cormier-daire@aphp^.fr',
+       iframeGoogleMaps: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5251.227908142517!2d2.313351!3d48.8465019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6703221308f89%3A0x57a7e5b303e7d9!2sH%C3%B4pital%20Necker%20Enfants%20malades%20-%20AP-HP!5e0!3m2!1sfr!2sfr!4v1743865086392!5m2!1sfr!2sfr"" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
     },
     {
         nom: 'Sarnacki',
@@ -97,7 +100,8 @@ export const childDoctors = [
         adresse: 'Hopital Necker-Enfants Malade, 149 rue de Sèvres',
         codePostal: '75015',
         ville: 'Paris',
-        mail: 'sabine.sarnacki@aphp.fr'
+        mail: 'sabine.sarnacki@aphp.fr',
+        iframeGoogleMaps: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5251.227908142517!2d2.313351!3d48.8465019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6703221308f89%3A0x57a7e5b303e7d9!2sH%C3%B4pital%20Necker%20Enfants%20malades%20-%20AP-HP!5e0!3m2!1sfr!2sfr!4v1743865086392!5m2!1sfr!2sfr"" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
     },
     {
         nom: 'Michot',
@@ -106,7 +110,8 @@ export const childDoctors = [
         adresse: 'Hopital Necker-Enfants Malade, 149 rue de Sèvres',
         codePostal: '75015',
         ville: 'Paris',
-        mail: 'caroline.michot@aphp.fr'
+        mail: 'caroline.michot@aphp.fr',
+        iframeGoogleMaps: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5251.227908142517!2d2.313351!3d48.8465019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6703221308f89%3A0x57a7e5b303e7d9!2sH%C3%B4pital%20Necker%20Enfants%20malades%20-%20AP-HP!5e0!3m2!1sfr!2sfr!4v1743865086392!5m2!1sfr!2sfr"" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
     },
     {
         nom: 'Hadj-Rabia',
@@ -115,7 +120,8 @@ export const childDoctors = [
         adresse: 'Hopital Necker-Enfants Malade, 149 rue de Sèvres',
         codePostal: '75015',
         ville: 'Paris',
-        mail: 'smail.hadj@inserm.fr'
+        mail: 'smail.hadj@inserm.fr',
+        iframeGoogleMaps: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5251.227908142517!2d2.313351!3d48.8465019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6703221308f89%3A0x57a7e5b303e7d9!2sH%C3%B4pital%20Necker%20Enfants%20malades%20-%20AP-HP!5e0!3m2!1sfr!2sfr!4v1743865086392!5m2!1sfr!2sfr"" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
     },
     {
         nom: 'Benichi',
@@ -124,7 +130,8 @@ export const childDoctors = [
         adresse: 'Hopital Necker-Enfants Malade, 149 rue de Sèvres',
         codePostal: '75015',
         ville: 'Paris',
-        mail: 'annie.dudot@aphp.fr'
+        mail: 'annie.dudot@aphp.fr',
+        iframeGoogleMaps: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5251.227908142517!2d2.313351!3d48.8465019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6703221308f89%3A0x57a7e5b303e7d9!2sH%C3%B4pital%20Necker%20Enfants%20malades%20-%20AP-HP!5e0!3m2!1sfr!2sfr!4v1743865086392!5m2!1sfr!2sfr"" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
     },
     {
         nom: 'Coze',

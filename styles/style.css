@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body{
+  height: 100%;
+}
+
 label, #toggle { display: none; }
 @media all and (max-width: 991px) {
   nav {
@@ -49,10 +53,6 @@ h1{
   padding: 0.5rem 0.5rem;
 }
 
-.premierPublication{
-  margin-top: 12em;
-} 
-
 .socialBar{
   display: flex;
   flex-direction: column;
@@ -64,19 +64,6 @@ h1{
   padding: 1em;
   top: 40%;
   width: auto;
-}
-/* .social img {
-  margin-right: 10px;
-  margin-left: 10px;
-} */
-
-.publications{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  height: auto;
-  margin: auto;
-  padding: 0.5rem 0;
 }
 
 footer{

@@ -1,7 +1,6 @@
-import { childDoctors } from "./childDoctors.js"
-// import { adultDoctors } from "./adultsDoctors.js"
+import { childDoctors } from "./childDoctors.js";
 
-const childDoctorHTML = document.querySelector(".child-doctors")
+const childDoctorHTML = document.querySelector('.child-doctors')
 childDoctorHTML.style = 'display: flex; flex-direction: column;'
 
 const newChildDoctor = (childDoctors) => {
@@ -32,3 +31,6 @@ const newChildDoctor = (childDoctors) => {
     
 }
 newChildDoctor(childDoctors)
+
+
+

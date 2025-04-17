@@ -33,7 +33,6 @@ const newChildDoctor = (childDoctors) => {
     }
     
 }
-newChildDoctor(childDoctors);
 
 
 inputDoctorsHTML.addEventListener('input', function(){

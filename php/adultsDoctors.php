@@ -14,8 +14,5 @@ $titre_page = 'Les spécialistes adultes';
 
 
 <div class="adult-doctors"></div>
-<!-- <div class="publications">
-    <article>Je suis sur les spé adultes</article>
-</div> -->
 
 <?php require 'footer.php'; ?> 
